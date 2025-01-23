@@ -1,6 +1,6 @@
 //Q1
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    int inp=sc.nextInt();
@@ -17,7 +17,7 @@ public class ASSIGNMENT05{
 
 //Q2
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    System.out.print("The value of N:");
@@ -31,7 +31,7 @@ public class ASSIGNMENT05{
 
 //Q3
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    System.out.print("Enter Number:");
@@ -47,7 +47,7 @@ public class ASSIGNMENT05{
   
 //Q4
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    int inp=sc.nextInt();
@@ -68,7 +68,7 @@ public class ASSIGNMENT05{
 
 //Q5
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    int length=sc.nextInt();
@@ -81,7 +81,7 @@ public class ASSIGNMENT05{
 
 //Q6
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    int height=sc.nextInt();
@@ -97,7 +97,7 @@ public class ASSIGNMENT05{
 
 //Q7                                                   
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){  
     Scanner sc=new Scanner(System.in);
     System.out.print("Enter the Height:");
@@ -118,7 +118,7 @@ public class ASSIGNMENT05{
 
 //Q8
 import java.util.Scanner;
-public class ASSIGNMENT05{
+public class Assignment05{
   public static void main(String[]args){
    Scanner sc = new Scanner(System.in);
    System.out.print("Start: ");
