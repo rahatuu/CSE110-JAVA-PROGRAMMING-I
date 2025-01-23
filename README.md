@@ -1,5 +1,5 @@
 # CSE110-JAVA-PROGRAMMING-I
-Java Programming I Assignments
+Java Programming I Assignments :
 This repository contains assignments from my Java Basics course, where I am learning foundational programming concepts step by step.
 
 1. Introduction to Flowchart :
